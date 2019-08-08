@@ -1,0 +1,38 @@
+q:The Insert Keystrokes command is the best match for which of these business use cases:
+a:Data entry
+
+q:Suraj wants to copy data from a website and verify that the data he copied matches a specific text string. Which If/Else Condition option should he select?
+a:Variable
+
+q:Emily is working on an automation project and wants to use Error Handling to capture information should an error occur. Which option should she select to capture a picture of the bot runner desktop?
+a:Select the Take Snapshot option
+
+q:In the Image Recognition command, which of the following values of Match Percentage ensures all the pixels match between the two images captured using Image Recognition command?
+a:100
+
+q:Jack is working on a task that is using the Error Handling command to capture errors and log the error data to a file. Now, he wants to specify a value to a variable to set a task status. Which Error Handling option should he use?
+a:Variable Assignment
+
+q:Dona is trying to insert work items in a TaskBot but is failing every time. What could be the reason?
+a:Must setup a Queue prior to using the command
+
+q:A STAGED error condition occurs when _________________?
+a:The Queue is in run mode and associated with a bot
+
+q:Nancy is using the Error Handling command to log information to a file when an error occurs. She wants to record the time and date when the error occurred. Which option should she select in the Log to file section of the Error Handling command?
+a:Add Timestamp
+
+q:Janet is creating a task to manage folders on her laptop. She wants the process to create a new folder where she will copy some filtered data files. Which command group will help her automate the process of creating a new folder?
+a:Files/Folder command
+
+q:While working in Error Handling, Matt wants to add an additional line error data to an existing log file. Which option should he use?
+a:"Append into Log file" under "Log Data into File"
+
+q:Bob wants to change the name of a folder to the current date. Which command should he select for this task?
+a:Files/Folders - Rename Files
+
+q:Steffi, a new programmer wants to use the Insert Keystrokes command to automate an application. However, she is unable to locate the application title in the command window. What should her first troubleshooting step be?
+a:Verify the application window is open
+
+q:When using the Image Recognition command, click the _______ button to check if the target image is identified in the source window.
+a:Quick Test

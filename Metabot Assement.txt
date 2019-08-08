@@ -1,0 +1,14 @@
+q:What is the primary benefit of using MetaBots?
+a:Can reduce operational costs
+
+q:Which option allows a Metabot to access an external library of functions?
+a:Add DLL
+
+q:Which view displays captured application screen shots and allows screen shots to be recorded?
+a:Assets view
+
+q:Alexa is working on MetaBot Designer and wants to capture multiple screens of the webpage on one go. Which view should she use?
+a:Assets view
+
+q:When using a Metabot to automate a process that multiple Tasks use, updating the function of the Metabot will...
+a:Update the functionality for all the Tasks
