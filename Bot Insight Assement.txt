@@ -1,0 +1,17 @@
+q:Saima is using Bot Insight and wants to analyze the data in it. Which role should she use?
+a:Analytics Consumers
+
+q:Which role allows the user to create copies of the dashboard in the Bot Insight environment?
+a:Analytics Expert
+
+q:To enable a Task bot to generate an operational dashboard, the following steps should be completed in order within a Bot Creator client:
+a:1. Enable Analytics 2. Tag Variables 3. Run Bot 4. Analyze the Default Dashboard
+
+q:Dhiren wants to know the basic use of Bot Insight. Which of these options does the Bot Insight product deliver?
+a:Operational Inteligence
+
+q:When Analytics is enabled for a Task bot, the values of variables marked as "Tagged for Analytics" can be viewed by clicking on the Analyze tab in the Workbench to view _________________
+a:Auto-generated Dashboards
+
+q:Bot Insight enables the operations organization to discover which two of the following? 
+a:Operational Insights & Business Insights
